@@ -318,8 +318,11 @@ It is possible to track your site statistics through [Google Analytics](https://
 ### Atom Feed
 
 Atom is supported by default through [jekyll-feed](https://github.com/jekyll/jekyll-feed). With jekyll-feed, you can set configuration variables such as 'title', 'description', and 'author', in the `_config.yml` file.
-
 Your atom feed file will be live at `https://your.site/feed.xml` [example](https://the-mvm.github.io/feed.xml).
+
+
+默认情况下，通过[jekyll-feed](https://github.com/jekyll/jekyll-feed)支持Atom。使用jekyll-feed，你可以在' _config. feed '中设置配置变量，比如'title'， 'description'和'author'。yml文件。
+您的atom提要文件将在' https://your.site/feed.xml '[示例](https://the-mvm.github.io/feed.xml)上实时发布。
 
 ### Social Media Icons
 
