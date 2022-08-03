@@ -121,9 +121,10 @@ Modify ``_config.yml`` file, located in the root directory, with your data.
 # Site settings
 title: The Title for Your Website
 description: 'A description of your blog'
-permalink: ':title:output_ext' # how the permalinks will behave
-baseurl: "/" # the subpath of your site, e.g. /blog
+permalink: ':title:output_ext' # how the permalinks will behave永久链接将如何表现
+baseurl: "/" # the subpath of your site, e.g. /blog你网站的子路径，例如/blog
 url: "" # the base hostname & protocol for your site, e.g. http://example.com
+# 站点的基本主机名和协议
 logo: "" # the logo for your site
 logo-icon: "" # a smaller logo, typically squared
 logo-icon-SEO: "" # must be a non SVG file, could be the same as the logo-icon
