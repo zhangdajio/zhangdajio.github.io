@@ -75,7 +75,7 @@ Dark mode looks like this:
 
 # Installation
 
-## Local Installation
+## Local Installation本地安装
 
 For a full local installation of Adam Blog 2.0, [download your own copy of Adam Blog 2.0](https://github.com/the-mvm/the-mvm.github.io/archive/refs/heads/main.zip) and unzip it into it's own directory. From there, open up your favorite command line tool, enter `bundle install`, and then enter `jekyll serve`. Your site should be up and running locally at [http://localhost:4000](http://localhost:4000).
 
@@ -85,7 +85,7 @@ If you are hosting your site on GitHub Pages, then committing a change to the `_
 
 Head over to the `_posts` directory to view all the posts that are currently on the website, and to see examples of what post files generally look like. You can simply just duplicate the template post and start adding your own content.
 
-## GitHub Pages Installation
+## GitHub Pages Installation  GitHub页面安装
 
 ### **STEP 1.**
 [Fork this repository](https://github.com/the-mvm/the-mvm.github.io/fork/) into your own account.
