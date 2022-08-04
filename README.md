@@ -1,4 +1,4 @@
-demo site now [mirrored](https://weathered-bread-8229.on.fleek.co/) in [IPFS](https://github.com/ipfs/ipfs#quick-summary)!
+演示网站现在[镜像](https://weathered-bread-8229.on.fleek.co/)在[IPFS](https://github.com/ipfs/ipfs#quick-summary)!
 
 # Jekyll theme: Adam Blog 2.0
 by [Armando Maynez](https://github.com/amaynez) based on [V1.0](https://github.com/artemsheludko/adam-blog) by [Artem Sheludko](https://github.com/artemsheludko). 
@@ -136,9 +136,9 @@ highlight_theme: syntax-base16.monokai.dark # select a dark theme for the code h
 
 
 # Author settings
-author: Your Name # add your name
-author-pic: '' # a picture of you
-about-author: '' # a brief description of you
+author: Your Name # 名字
+author-pic: '' # 照片
+about-author: '' # 简单描述一下自己
 
 # Contact links
 email: your@email.com # Add your Email address
@@ -307,10 +307,8 @@ To completely start from scratch, simply delete all the files in the `_posts`, `
 ### Click to tweet
 
 If you have a tweetable quote in your blog post and wish to feature it as a click to tweet block, you just have to use the `<tweet></tweet>` tags, everything between them will be converted in a click to tweet box.
-
-<img width="640px" src="https://github.com/the-mvm/the-mvm.github.io/blob/main/assets/img/template_screenshots/ctt-markdown.png?raw=true">
-
-<img width="640px" src="https://github.com/the-mvm/the-mvm.github.io/blob/main/assets/img/template_screenshots/ctt-render.png?raw=true">
+<img width="640px" src="https://github.com/the-mvm/the-mvm.github.io/tree/main/assets/img/template_screenshots/ctt-markdown.png?raw=true">
+<img width="640px" src="https://github.com/the-mvm/the-mvm.github.io/tree/main/assets/img/template_screenshots/ctt-render.png?raw=true">
 
 ### Google Analytics
 
@@ -352,10 +350,9 @@ highlight_theme: syntax-base16.monokai.dark # select a theme for the code highli
 See the [highlighter directory](https://github.com/the-mvm/the-mvm.github.io/tree/main/assets/css/highlighter) for reference on the options.
 
 ### Markdown
+Jekyll提供了对GitHub风格Markdown的支持, 它允许你使用 [Markdown语法](https://guides.github.com/features/mastering-markdown/)格式化你的帖子.
 
-Jekyll offers support for GitHub Flavored Markdown, which allows you to format your posts using the [Markdown syntax](https://guides.github.com/features/mastering-markdown/).
-
-## Everything Else
+## 其他
 
 Check out the [Jekyll docs][jekyll-docs] for more info on how to get the most out of Jekyll. File all bugs/feature requests at [Jekyll's GitHub repo][jekyll-gh]. If you have questions, you can ask them on [Jekyll Talk][jekyll-talk].
 
@@ -363,7 +360,7 @@ Check out the [Jekyll docs][jekyll-docs] for more info on how to get the most ou
 [jekyll-gh]:   https://github.com/jekyll/jekyll
 [jekyll-talk]: https://talk.jekyllrb.com/
 
-## Contributing
+## 贡献
 
 If you would like to make a feature request, or report a bug or typo in the documentation, then please [submit a GitHub issue](https://github.com/the-mvm/the-mvm.github.io/issues/new). If you would like to make a contribution, then feel free to [submit a pull request](https://help.github.com/articles/about-pull-requests/) - as a bonus, I will credit all contributors below! If this is your first pull request, it may be helpful to read up on the [GitHub Flow](https://guides.github.com/introduction/flow/) first.
 
