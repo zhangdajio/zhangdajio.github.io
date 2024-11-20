@@ -1,8 +1,8 @@
 # Site settings
-title: 张大jio #原The Minimum Viable Model
-description: 'Artificial Intelligence trends and concepts made easy.' # this means to ignore newlines until "baseurl:"
-permalink: ':title:output_ext'
-baseurl: "/" # the subpath of your site, e.g. /blog
+title: 张大jio #上面的标签
+description: "Artificial Intelligence trends and concepts made easy." # this means to ignore newlines until "baseurl:"
+permalink: ":title:output_ext"
+baseurl: "/" # the subpath of your site, e.g. /blog您网站的子路径，例如/blog
 url: "https://zhangdajio.github.io/" #the base hostname & protocol for your site网站的基本主机名和协议,原https://the-mvm.github.io
 logo: "/assets/img/branding/MVM-logo-full.svg"
 logo-icon: "/assets/img/branding/MVM-symbol.svg"
@@ -26,7 +26,7 @@ highlight_theme: syntax-base16.monokai.dark # select a dark theme for the code h
 # Author settings
 author: 张大jio # add your name
 author-pic: Myself_Neon_grey.jpg
-about-author: 一般路过程序员
+about-author: 一般路过二刺猿
 
 # Contact links
 email: jiayou_zhangyun@163.com # Add your Email address
@@ -34,9 +34,9 @@ phone: # Add your Phone number
 website: https://github.com/zhangdajio # Add your website，原https://amaynez.github.io
 linkedin: amaynez # Add your Linkedin handle
 github: zhangdajio # Add your Github handle
-twitter: '@MvmThe' # Add your Twitter handle
+twitter: "@MvmThe" # Add your Twitter handle
 bandcamp: armandomaynez # Add your Bandcamp username
-stackoverflow: stackoverflow # Add your stackoverflow account
+stackoverflow: https://stackoverflow.com/users/28398773/charon?tab=profile# Add your stackoverflow account国外的程序员提交问题的社区
 
 # Newsletter
 mailchimp: "https://github.us1.list-manage.com/subscribe/post?u=8ece198b3eb260e6838461a60&amp;id=397d90b5f4"
@@ -47,11 +47,11 @@ fbadmin: ar.maybach
 
 # Paginate页数
 paginate: 8
-paginate_path: 'page:num'
+paginate_path: "page:num"
 words_per_minute: 200
 
 # Comments注释评论
-comments: utteranc  #[disqus, utteranc]
+comments: utteranc #[disqus, utteranc]
 comments_opts:
   comments_curtain: yes # leave empty to show the disqus embed directly
   repo: # The GitHub repo URL.  https://utteranc.es/
@@ -86,5 +86,13 @@ plugins:
   - jekyll-sitemap
 
 include: [_pages]
-exclude: ["node_modules", "gulpfile.js", "package.json", "yarn.lock", "package-lock.json", "assets/css/sass/"]
+exclude:
+  [
+    "node_modules",
+    "gulpfile.js",
+    "package.json",
+    "yarn.lock",
+    "package-lock.json",
+    "assets/css/sass/",
+  ]
 theme: jekyll-theme-leap-day
