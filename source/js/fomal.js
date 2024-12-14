@@ -3169,12 +3169,12 @@ let btstu = "url(http://api.btstu.cn/sjbz/?lx=suiji)";
 let unsplash = "url(https://source.unsplash.com/random/1920x1080/)";
 
 
-// 更换背景(自己的代码)
+// 更换背景(自己的代码),路径是从主体的source开始
 if (localStorage.getItem("blogbg") != undefined) {
   setBg(localStorage.getItem("blogbg"));
 } else {
   document.getElementById("defineBg").innerText = `:root{
-    --default-bg: url(https://lskypro.acozycotage.net/Fomalhaut/img/dm14.webp);
+    --default-bg: url(/img/back.jpg);
     --darkmode-bg:url(https://lskypro.acozycotage.net/Fomalhaut/img/yuanshen1.webp);
     --mobileday-bg: url(https://lskypro.acozycotage.net/Fomalhaut/img/snow.webp);
     --mobilenight-bg: url(https://lskypro.acozycotage.net/Fomalhaut/img/mb8.webp);
