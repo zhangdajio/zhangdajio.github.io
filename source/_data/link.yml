@@ -1,10 +1,26 @@
-- class_name: 0.推荐网站🍔
+- class_name: 0.博客开源项目所在🍔
   class_desc: 这里是最熟悉的小伙伴或者赞助商，当然是最前排啦
   link_list: 
-    - name: Fomalhaut🥝
+    - name: Fomalhaut🐾
       link: https://www.fomal.cc/
       avatar: https://www.fomal.cc/assets/avatar.webp
-      descr: Future is now 🍭🍭🍭
+      descr: Future is now. 🍭🍭🍭
       siteshot: https://source.fomal.cc/siteshot/www.fomal.cn.jpg
 
+- class_name: 1.图片素材📑
+  class_desc: 免费的博客素材this way~
+  link_list: 
+    - name: Unsplash✂
+      link: https://unsplash.com/
+      avatar: https://fontawesome.com/icons/unsplash?f=brands&s=solid
+      descr: 记得感谢作者！ 
+      siteshot: https://source.fomal.cc/siteshot/www.fomal.cn.jpg
 
+- class_name: 2.字体素材📑
+  class_desc: 免费的字体？让我康康~
+  link_list: 
+    - name: 51font
+      link: https://51font.17font.com/
+      avatar: 
+      descr: 百度云下载 
+      siteshot: 
