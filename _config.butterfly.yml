@@ -259,10 +259,10 @@ reward:
   coinAudio: https://npm.elemecdn.com/akilar-candyassets@1.0.36/audio/aowu.m4a
   QR_code:
     - img: #二维码
-      link:
+      link: ./img/wechat.png
       text: 微信
     - img: #二维码
-      link:
+      link: ./img/alipay.png
       text: 支付宝
 
 # Post edit
