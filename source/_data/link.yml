@@ -1,0 +1,42 @@
+- class_name: 0.博客开源项目所在🍔
+  class_desc: 这里是最熟悉的小伙伴或者赞助商，当然是最前排啦
+  link_list: 
+    - name: Fomalhaut🐾
+      link: https://www.fomal.cc/
+      avatar: https://www.fomal.cc/assets/avatar.webp
+      descr: Future is now. 🍭🍭🍭
+      siteshot: https://source.fomal.cc/siteshot/www.fomal.cn.jpg
+
+# siteshot是在友人帐那里的封面
+- class_name: 1.图片素材📑
+  class_desc: 免费的博客素材this way~
+  link_list: 
+    - name: Unsplash✂
+      link: https://unsplash.com/
+      avatar: ./image/blog/unsplash-brands-solid.svg
+      descr: 记得感谢作者！ 
+      siteshot: https://source.fomal.cc/siteshot/www.fomal.cn.jpg
+#   link_list: 一个大item中多个小item的写法
+    - name: fontawesome🧩
+      link: https://fontawesome.com/search
+      avatar: ./image/blog/square.svg
+      descr: 图标素材，免费可下载
+      
+
+- class_name: 2.字体素材✍
+  class_desc: 免费的字体？让我康康~
+  link_list: 
+    - name: 51font
+      link: https://51font.17font.com
+      avatar: ./image/blog/font-solid.svg
+      descr: 百度云下载 
+      siteshot: 
+
+- class_name: 3.百度云链接🔗
+  class_desc: 奇奇怪怪的连接，注意识别
+  link_list: 
+    - name: 占位
+      link: #
+      avatar: 
+      descr: 百度云下载 
+      siteshot: 
