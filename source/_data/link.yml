@@ -1,5 +1,5 @@
-- class_name: 0.博客开源项目所在🍔
-  class_desc: 这里是最熟悉的小伙伴或者赞助商，当然是最前排啦
+- class_name: 博客开源项目所在🍔
+  class_desc: 这里是最熟悉的小伙伴或，当然是最前排啦
   link_list: 
     - name: Fomalhaut🐾
       link: https://www.fomal.cc/
@@ -30,6 +30,11 @@
       link: https://51font.17font.com
       avatar: ./image/blog/font-solid.svg
       descr: 百度云下载 
+      siteshot: 
+    - name: Google Fonts
+      link: https://www.googlefonts.cn/chinese
+      avatar: ./image/blog/google-plus-g-brands-solid.svg
+      descr: 浏览器下载 
       siteshot: 
 
 - class_name: 3.百度云链接🔗

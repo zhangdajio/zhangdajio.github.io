@@ -3,7 +3,7 @@
 ## Source: https://github.com/hexojs/hexo/
 
 # Site
-title: 大jioの小窝🌈
+title: 大jio的小窝🌈
 subtitle: 
 description: '向前冲！'
 keywords: 'Java,MySQL,算法,代码,博客,Butterfly,Hexo,Fomalhaut🐾,Fomalhaut'
@@ -18,7 +18,7 @@ abbrlink:
 
 # URL
 ## Set your site url here. For example, if you use GitHub Page, set url as ''
-url: https://www.fomal.cc/
+url: https://zhangdajio.github.io/
 permalink: posts/:abbrlink.html
 permalink_defaults:
 pretty_urls:

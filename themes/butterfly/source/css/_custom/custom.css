@@ -96,6 +96,18 @@ mark {
     font-display: swap;
 }
 
+@font-face {
+  font-family: Ubuntu-BoldItalic;
+  src: url(./font/Ubuntu-BoldItalic.ttf);
+  font-display: swap;
+}
+@font-face {
+  font-family: 杨任东竹石体-Regular;
+  src: url(./font/杨任东竹石体-Regular.ttf);
+  font-display: swap;
+}
+
+/* 字体文件的存放路径在themes\butterfly\source\css\font处 */
 
 /* 特定部件字体调用 */
 div#menus {

@@ -258,11 +258,11 @@ reward:
   enable: true
   coinAudio: https://npm.elemecdn.com/akilar-candyassets@1.0.36/audio/aowu.m4a
   QR_code:
-    - img: #二维码
-      link: ./img/wechat.png
+    - img: ./img/wechat.png #二维码
+      link: 
       text: 微信
-    - img: #二维码
-      link: ./img/alipay.png
+    - img: ./img/alipay.png   #二维码
+      link: 
       text: 支付宝
 
 # Post edit
@@ -666,22 +666,24 @@ beautify:
 # Global font settings
 # Don't modify the following settings unless you know how they work (非必要不要修改)
 font:
-  global-font-size: 15.5px
-  code-font-size: 14.5px
+  global-font-size: 17px
+  code-font-size: 15px
   # -apple-system, BlinkMacSystemFont, "Segoe UI" , "Helvetica Neue" , Lato, Roboto, "PingFang SC" , "Microsoft JhengHei" , "Microsoft YaHei" , sans-serif
   # Wenkai, consolas, -apple-system, 'Quicksand', 'Nimbus Roman No9 L', 'PingFang SC', 'Hiragino Sans GB', 'Noto Serif SC', 'Microsoft Yahei', 'WenQuanYi Micro Hei', 'ST Heiti', sans-serif;
   font-family: PF_SanSheng, PF_XiangSi, var(--global-font), -apple-system, 'Quicksand', 'Nimbus Roman No9 L', 'PingFang SC', 'Hiragino Sans GB', 'Noto Serif SC', 'Microsoft Yahei', 'WenQuanYi Micro Hei', 'ST Heiti', sans-serif;
   # consolas, ZhuZiAWan_light, "Microsoft YaHei", Menlo, "PingFang SC", "Microsoft JhengHei", sans-serif
   # Consolas_1, ZhuZiAWan_light, "Microsoft YaHei", Menlo, "PingFang SC", "Microsoft JhengHei", sans-serif
-  code-font-family: Consolas_1, var(--global-font), "Microsoft YaHei", Menlo, "PingFang SC", "Microsoft JhengHei", sans-serif
+  code-font-family: Ubuntu-BoldItalic, var(--global-font), "Microsoft YaHei", Menlo, "PingFang SC", "Microsoft JhengHei", sans-serif
 
 # Font settings for the site title and site subtitle
 # https://fonts.googleapis.com/css?family=Titillium+Web&display=swap
 # Titillium Web, 'PingFang SC' , 'Hiragino Sans GB' , 'Microsoft JhengHei' , 'Microsoft YaHei' , sans-serif
+
 # 左上角網站名字 主頁居中網站名字
 blog_title_font:
   font_link:
-  font-family: var(--global-font)
+  font-family: PF_SanSheng
+  #var(--global-font)
 
 # The setting of divider icon (水平分隔線圖標設置)
 hr_icon:

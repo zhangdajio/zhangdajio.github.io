@@ -340,7 +340,7 @@ hexo d
   }
   
   #bibi .card-header .card-time {
-    font-size: 12px;
+    font-size: 16px;
     text-shadow: #d9d9d9 0 0 1px, #fffffb 0 0 1px, #fffffb 0 0 2px;
     margin-left: 10px;
   }
