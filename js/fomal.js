@@ -2932,11 +2932,11 @@ function setFont(n) {
   localStorage.setItem("font", n)
   if (n == "default") {
     document.documentElement.style.setProperty('--global-font', '-apple-system');
-      document.body.style.fontFamily = "-apple-system, Consolas_1, BlinkMacSystemFont, 'Segoe UI' , 'Helvetica Neue' , Lato, Roboto, '微软雅黑' , 'Microsoft JhengHei' , 'Microsoft YaHei' , sans-serif";
+      document.body.style.fontFamily = "-apple-system, Consolas_1, BlinkMacSystemFont, 'Segoe UI' , 'Helvetica Neue' , Lato, Roboto, 'LXGW' , 'Microsoft JhengHei' , 'Microsoft YaHei' , sans-serif";
   }
   else {
     document.documentElement.style.setProperty('--global-font', n);
-      document.body.style.fontFamily = "var(--global-font),-apple-system, IBM Plex Mono ,monosapce,'微软雅黑', sans-serif";
+      document.body.style.fontFamily = "var(--global-font),-apple-system, IBM Plex Mono ,monosapce,'LXGW', sans-serif";
   }
   try { setFontBorder(); } catch (err) { };
 }
@@ -3390,7 +3390,8 @@ function createWinbox() {
 <a class="swf" id="swf_杨任东竹石体-Regular" href="javascript:;" rel="noopener external nofollow" style="font-family:'杨任东竹石体-Regular'!important;color:black" onclick="setFont('杨任东竹石体-Regular')">杨任东竹石体-Regular</a>
 <a class="swf" id="swf_YSHST" href="javascript:;" rel="noopener external nofollow" style="font-family:'YSHST'!important;color:black" onclick="setFont('YSHST')">优设好身体</a>
 <a class="swf" id="swf_MiSans" href="javascript:;" rel="noopener external nofollow" style="font-family:'MiSans'!important;color:black" onclick="setFont('MiSans')">MiSans</a>
-<a class="swf" id="swf_default" href="javascript:;" rel="noopener external nofollow" style="font-family:-apple-system, IBM Plex Mono ,monosapce,'微软雅黑', sans-serif;!important;color:black" onclick="setFont('default')">系统默认</a>
+<a class="swf" id="swf_微软雅黑" href="javascript:;" rel="noopener external nofollow" style="font-family:'微软雅黑', sans-serif;!important;color:black" onclick="setFont('default')">微软雅黑</a>
+<a class="swf" id="swf_default" href="javascript:;" rel="noopener external nofollow" style="font-family:-apple-system, IBM Plex Mono ,monosapce,'LXGW', sans-serif;!important;color:black" onclick="setFont('default')">系统默认</a>
 </p>
 
 <h2>三、主题色设置</h2>
