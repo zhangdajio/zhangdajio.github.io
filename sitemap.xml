@@ -92,7 +92,7 @@
   </url>
   
   <url>
-    <loc>https://zhangdajio.github.io/personal/about/index.html</loc>
+    <loc>https://zhangdajio.github.io/life/music/index.html</loc>
     
     <lastmod>2024-12-14</lastmod>
     
@@ -110,7 +110,7 @@
   </url>
   
   <url>
-    <loc>https://zhangdajio.github.io/life/music/index.html</loc>
+    <loc>https://zhangdajio.github.io/personal/about/index.html</loc>
     
     <lastmod>2024-12-14</lastmod>
     
@@ -221,6 +221,27 @@
   </url>
   
   <url>
+    <loc>https://zhangdajio.github.io/tags/%E5%B8%B8%E8%AF%86/</loc>
+    <lastmod>2024-12-30</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.2</priority>
+  </url>
+  
+  <url>
+    <loc>https://zhangdajio.github.io/tags/%E5%85%AC%E5%9F%BA/</loc>
+    <lastmod>2024-12-30</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.2</priority>
+  </url>
+  
+  <url>
+    <loc>https://zhangdajio.github.io/tags/%E8%A1%8C%E6%B5%8B/</loc>
+    <lastmod>2024-12-30</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.2</priority>
+  </url>
+  
+  <url>
     <loc>https://zhangdajio.github.io/tags/Markdown/</loc>
     <lastmod>2024-12-30</lastmod>
     <changefreq>weekly</changefreq>
@@ -248,31 +269,17 @@
     <priority>0.2</priority>
   </url>
   
-  <url>
-    <loc>https://zhangdajio.github.io/tags/%E5%B8%B8%E8%AF%86/</loc>
-    <lastmod>2024-12-30</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.2</priority>
-  </url>
-  
-  <url>
-    <loc>https://zhangdajio.github.io/tags/%E5%85%AC%E5%9F%BA/</loc>
-    <lastmod>2024-12-30</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.2</priority>
-  </url>
-  
-  <url>
-    <loc>https://zhangdajio.github.io/tags/%E8%A1%8C%E6%B5%8B/</loc>
-    <lastmod>2024-12-30</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.2</priority>
-  </url>
-  
 
   
   <url>
     <loc>https://zhangdajio.github.io/categories/%E5%89%8D%E7%AB%AF%E6%8A%80%E6%9C%AF/</loc>
+    <lastmod>2024-12-30</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.2</priority>
+  </url>
+  
+  <url>
+    <loc>https://zhangdajio.github.io/categories/%E6%B3%95%E5%BE%8B%E5%B8%B8%E8%AF%86/</loc>
     <lastmod>2024-12-30</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
@@ -287,13 +294,6 @@
   
   <url>
     <loc>https://zhangdajio.github.io/categories/%E6%95%99%E5%B8%88%E7%BC%96/</loc>
-    <lastmod>2024-12-30</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.2</priority>
-  </url>
-  
-  <url>
-    <loc>https://zhangdajio.github.io/categories/%E6%B3%95%E5%BE%8B%E5%B8%B8%E8%AF%86/</loc>
     <lastmod>2024-12-30</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
