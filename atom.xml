@@ -6,7 +6,7 @@
   <link href="https://zhangdajio.github.io/atom.xml" rel="self"/>
   
   <link href="https://zhangdajio.github.io/"/>
-  <updated>2025-01-01T13:28:28.000Z</updated>
+  <updated>2025-01-03T04:26:00.000Z</updated>
   <id>https://zhangdajio.github.io/</id>
   
   <author>
@@ -15,6 +15,29 @@
   </author>
   
   <generator uri="https://hexo.io/">Hexo</generator>
+  
+  <entry>
+    <title>BJD相关</title>
+    <link href="https://zhangdajio.github.io/posts/bjd.html"/>
+    <id>https://zhangdajio.github.io/posts/bjd.html</id>
+    <published>2025-01-03T04:26:00.000Z</published>
+    <updated>2025-01-03T04:26:00.000Z</updated>
+    
+    <content type="html"><![CDATA[<h1>1.娃的相关参数</h1><h1>2.衣服制作</h1><h2 id="2-1连衣裙">2.1连衣裙</h2><p><a href="https://www.bilibili.com/video/BV1UP411i7dt/?spm_id_from=333.999.0.0&amp;vd_source=85d2b88542fb4120f01e5be031f530b7">牛仔无袖连衣裙</a></p><p>大女里布</p><div class="row">    <embed src="../pdf/大女里布.pdf" width="100%" height="550" type="application/pdf"></div><p>大女面料</p><div class="row">    <embed src="../pdf/大女面料.pdf" width="100%" height="550" type="application/pdf"></div><h2 id="2-2上装">2.2上装</h2><h2 id="2-3下装">2.3下装</h2>]]></content>
+    
+    
+    <summary type="html">html的基本操作，常用的标签以及属性介绍</summary>
+    
+    
+    
+    <category term="手工" scheme="https://zhangdajio.github.io/categories/%E6%89%8B%E5%B7%A5/"/>
+    
+    
+    <category term="衣服制作" scheme="https://zhangdajio.github.io/tags/%E8%A1%A3%E6%9C%8D%E5%88%B6%E4%BD%9C/"/>
+    
+    <category term="BJD" scheme="https://zhangdajio.github.io/tags/BJD/"/>
+    
+  </entry>
   
   <entry>
     <title>科目3-理论精讲</title>
@@ -32,12 +55,10 @@
     
     <category term="教师" scheme="https://zhangdajio.github.io/categories/%E6%95%99%E5%B8%88/"/>
     
-    <category term="信息技术" scheme="https://zhangdajio.github.io/categories/%E6%95%99%E5%B8%88/%E4%BF%A1%E6%81%AF%E6%8A%80%E6%9C%AF/"/>
-    
-    
-    <category term="教招" scheme="https://zhangdajio.github.io/tags/%E6%95%99%E6%8B%9B/"/>
     
     <category term="信息技术" scheme="https://zhangdajio.github.io/tags/%E4%BF%A1%E6%81%AF%E6%8A%80%E6%9C%AF/"/>
+    
+    <category term="教招" scheme="https://zhangdajio.github.io/tags/%E6%95%99%E6%8B%9B/"/>
     
     <category term="python" scheme="https://zhangdajio.github.io/tags/python/"/>
     

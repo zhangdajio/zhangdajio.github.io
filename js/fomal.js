@@ -2806,7 +2806,7 @@ function createtime() {
   (currentTimeHtml =
     hnum < 18 && hnum >= 9
       ? `<img class='boardsign' src='../image/blog/floot1.png' title='别往下拉了，没有啦~' width=100px><br> <div style="font-size:13px;font-weight:bold">本站居然运行了 ${dnum} 天 ${hnum} 小时 ${mnum} 分 ${snum} 秒 <i id="heartbeat" class='fas fa-heartbeat'></i> <br> 旅行者 1 号当前距离地球 ${dis} 千米，约为 ${unit} 个天文单位 🚀</div>`
-      : `<img class='boardsign' src='../img/ft_img/floot2.png' title='夜深了，要注意休息啊(*^▽^*)' width=100px><br> <div style="font-size:13px;font-weight:bold">本站居然运行了 ${dnum} 天 ${hnum} 小时 ${mnum} 分 ${snum} 秒 <i id="heartbeat" class='fas fa-heartbeat'></i> <br> 旅行者 1 号当前距离地球 ${dis} 千米，约为 ${unit} 个天文单位 🚀</div>`),
+      : `<img class='boardsign' src='https://s2.loli.net/2025/01/03/IXUns2vq7imATlM.jpg' title='夜深了，要注意休息啊(*^▽^*)' width=100px><br> <div style="font-size:13px;font-weight:bold">本站居然运行了 ${dnum} 天 ${hnum} 小时 ${mnum} 分 ${snum} 秒 <i id="heartbeat" class='fas fa-heartbeat'></i> <br> 旅行者 1 号当前距离地球 ${dis} 千米，约为 ${unit} 个天文单位 🚀</div>`),
     document.getElementById("workboard") &&
     (document.getElementById("workboard").innerHTML = currentTimeHtml);
 }
